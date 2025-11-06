@@ -9,7 +9,7 @@
 * [02-Middleware](02-Middleware/init.md)
   * [00-Zookeeper](02-Middleware/00-zookeeper.md)
   * [01-Redis](02-Middleware/01-redis.md)
-  * [02-kafka](init-2/02-kafka.md)
+  * [02-kafka](./02-Middleware/02-kafka.md)
 * [03-DB](03-DB/init.md)
 * [04-Micro-Services](04-micro-service/init.md)
 * [05-Monitoring](05-monitoring/init.md)
